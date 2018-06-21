@@ -8,5 +8,5 @@ host someinternalhost
 	proxyjump valeriy.tuev@35.204.145.192
 	identityfile ~/.ssh/id_rsa
 
-bastion_ip = 35.204.145.192
-someinternalhost_ip = 10.142.0.2
+bastion_IP = 35.204.145.192
+someinternalhost_IP = 10.142.0.2
