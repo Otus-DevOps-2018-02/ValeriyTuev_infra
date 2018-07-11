@@ -14,6 +14,9 @@ someinternalhost_IP = 10.142.0.2
 
 ##Homework 5
 
+testapp_IP = 35.204.172.151
+testapp_port = 9292
+
 Выполнено основное задание: закомиттил скрипты install_ruby.sh, 
 install_mongodb.sh и deploy.sh. 
 
